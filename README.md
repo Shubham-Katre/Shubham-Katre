@@ -1,5 +1,5 @@
 <h2 align="right">👉<a href="https://drive.google.com/file/d/1igO8oLeIBQ6M3cDSsx7LYjuLDjGkLrxt/view?usp=share_link"><img width="100"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4UElvOe_MgXaCy-Ot2OAxvihSy_W2TisPg&usqp=CAU"> </a></h2>
-<h2>  I'm Shubham Katre ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> 👋 Hello there! I'm Shubham Katre ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Backend Developer<a href=>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
