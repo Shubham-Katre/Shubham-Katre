@@ -18,7 +18,7 @@
 - 🌐 Also experienced with **Vue.js** and **TypeScript** — took full ownership of frontend delivery when needed
 - 💬 Ask me about **Java, Spring Boot, Microservices, DSA, OOP, PostgreSQL**
 - 📫 Reach me at **shubhamkatre20@gmail.com**
-- 📄 [View my Resume](https://drive.google.com/file/d/1tUw-Yh7mXdprgcQamfgAGxC3rVzyXHDA/view?usp=sharing)
+- 📄 [View my Resume](https://docs.google.com/document/d/1rUk-iFnutpFRkPxEHhB9wABhooQ0x6YhtuGsvC6gXEw/edit?usp=sharing)
 
 ---
 
